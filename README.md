@@ -51,10 +51,10 @@ A simple crypto tracker built with Flutter to learn API integration and UI best 
 
 **📫 Connect with Me**
 
-🔗 Email: sjunejo95#gmail.com
-🔗 Mobile: +49 17659231684
-🔗 LinkedIn: https://www.linkedin.com/in/saeed-ahmed-5182b6222/
-🔗 Portfolio: https://saeedahmed.dorik.io/  
+- 🔗 Email: sjunejo95@gmail.com
+- 🔗 Mobile: +49 17659231684
+- 🔗 LinkedIn: https://www.linkedin.com/in/saeed-ahmed-5182b6222/
+- 🔗 Portfolio: https://saeedahmed.dorik.io/  
 
 
 ---
