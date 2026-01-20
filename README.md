@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Saeed Ahmed
+**👋 Hello, I’m Saeed Ahmed — Mobile Application Developer**
 
 **Flutter Mobile Application Developer** with **2+ years of professional experience** building, maintaining, and deploying **production-ready mobile applications** for **Android & iOS**.
 
@@ -49,14 +49,17 @@ A simple crypto tracker built with Flutter to learn API integration and UI best 
 
 ---
 
-## 📫 Connect with Me
+**📫 Connect with Me**
 
-🔗 Portfolio: https://saeedahmed.dorik.io/  
+🔗 Email: sjunejo95#gmail.com
+🔗 Mobile: +49 17659231684
 🔗 LinkedIn: https://www.linkedin.com/in/saeed-ahmed-5182b6222/
+🔗 Portfolio: https://saeedahmed.dorik.io/  
+
 
 ---
 
-## 📍 Based in Germany
+**📍 Based in Germany**
 
-Open to **Mobile Application Developer roles** (Flutter / Dart / Cross-Platform).
+Open to **Mobile Application Developer roles** (Flutter | Dart| Cross-Platform | Native (Android) |).
 
